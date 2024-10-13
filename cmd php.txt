@@ -1,0 +1,5 @@
+g:
+cd projetos
+cd uniasselvi
+php -S localhost:8000
+
