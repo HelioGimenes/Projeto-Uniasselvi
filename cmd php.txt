@@ -1,0 +1,9 @@
+g:
+cd projetos
+cd uniasselvi
+php -S localhost:8000
+
+http://localhost:8000/index.html
+
+nodemon server.js
+
